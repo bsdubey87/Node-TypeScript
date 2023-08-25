@@ -1,0 +1,17 @@
+{
+  "name": "3-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "tsc && node build/app.js"
+  },
+  "author": "Bhawani Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
